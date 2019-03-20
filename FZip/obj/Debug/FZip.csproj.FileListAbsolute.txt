@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\bin\Debug\FZip.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\bin\Debug\FZip.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\FZip.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\FZip.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\FZip.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\FZip.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\FZip\FZip\obj\Debug\FZip.pdb
